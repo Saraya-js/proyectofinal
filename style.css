@@ -32,7 +32,14 @@ body {
     display: table;
     clear: both;
   }
-
+  .row{
+    margin-right: 10%;
+    margin-left: 10%;
+  }
+  .texto{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
 
   /* Footer*/
   footer {
